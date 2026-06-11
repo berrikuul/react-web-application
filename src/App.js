@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
+import { Routes, Route, useNavigate } from "react-router-dom";
 import OrderPage from "./basket.js";
 import Coffee from "./Coffee.js";
 import HomePage from "./HomePage.js";
