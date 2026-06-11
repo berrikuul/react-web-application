@@ -2,7 +2,7 @@ import "./Coffee.css";
 import coffeeImage from "./Image coffee.png";
 import { useNavigate } from "react-router-dom";
 import OrderPage from "./basket.js";
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { AddCoffeeBasket } from './App.js';
 import { DelCoffeeBasket } from './App.js';
 
