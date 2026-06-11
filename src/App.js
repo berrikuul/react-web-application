@@ -1,5 +1,5 @@
 import './App.css';
-import { useState, useMemo, useRef, useEffect } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Routes, Route, useNavigate } from "react-router-dom";
 import OrderPage from "./basket.js";
 import Coffee from "./Coffee.js";
